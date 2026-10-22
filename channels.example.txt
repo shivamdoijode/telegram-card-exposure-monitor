@@ -1,0 +1,2 @@
+https://t.me/example_public_channel
+https://t.me/+PRIVATE_INVITE_HASH_EXAMPLE

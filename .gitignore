@@ -1,0 +1,16 @@
+# Secrets and personal data - never commit these
+.env
+*.session
+*.session-journal
+channels.txt
+
+# Scan results (masked, but still sensitive)
+output/
+card_findings*.csv
+card_report*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
